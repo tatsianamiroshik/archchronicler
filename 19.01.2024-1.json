@@ -1,0 +1,26 @@
+{
+    "name": "Stephanie Miller",
+    "age": 85,
+    "address": {
+        "street": "Antonio Roads",
+        "city": "New Melanieview",
+        "state": "Michigan",
+        "zip": "77432"
+    },
+    "contact": {
+        "phone": "001-699-482-2659x0291",
+        "servicePhone": "800395528"
+    },
+    "birthday": "1939-27-08",
+    "ip": "96.244.244.175",
+    "foo": "bar",
+    "profile": {
+        "about": "Husband about area century test. Region pick wear various.\nAbility research whom attention traditional report. Firm capital wear perhaps sort political fill.",
+        "bio": "Important film anyone dream. Their report use its along late purpose cup.\nStandard decade throughout. Through green security."
+    },
+    "apiKey": "7aacbeb518b808ab0d5ad76e9c38a62fce2b74449fca44ac6b44b6926e2faa2b",
+    "currency": [
+        "MNT",
+        "Mongolian tugrik"
+    ]
+}
