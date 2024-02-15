@@ -1,0 +1,26 @@
+{
+    "name": "Jeff Jones",
+    "age": 35,
+    "address": {
+        "street": "Carter River",
+        "city": "East Michael",
+        "state": "Massachusetts",
+        "zip": "37640"
+    },
+    "contact": {
+        "phone": "(773)979-0586",
+        "servicePhone": "800987194"
+    },
+    "birthday": "1989-04-07",
+    "ip": "26.212.189.71",
+    "foo": "bar",
+    "profile": {
+        "about": "Arrive discuss once. Small pretty employee if instead city clearly.\nSimple science task speak community. Wish today society to.",
+        "bio": "Might something pretty watch meeting. Stop describe leg close ball. Fish interesting medical result investment rise mind."
+    },
+    "apiKey": "ecf8f7d205271025163d018c9c04c587e1f0c037fdfe91dc6919b8c14ca27fc2",
+    "currency": [
+        "EGP",
+        "Egyptian pound"
+    ]
+}
