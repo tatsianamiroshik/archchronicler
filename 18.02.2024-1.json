@@ -1,0 +1,26 @@
+{
+    "name": "Zachary Garza",
+    "age": 54,
+    "address": {
+        "street": "Fields Fords",
+        "city": "East Courtneychester",
+        "state": "North Carolina",
+        "zip": "64421"
+    },
+    "contact": {
+        "phone": "+1-228-777-8742x842",
+        "servicePhone": "800016418"
+    },
+    "birthday": "1970-11-09",
+    "ip": "155.192.202.164",
+    "foo": "bar",
+    "profile": {
+        "about": "Hear project stand player tend world. Rock itself forget how. Quality send focus woman whole data compare.",
+        "bio": "Into space recently month also amount. Where easy our note rich different. Ahead one say not discover whatever. Environmental behavior fight it different receive."
+    },
+    "apiKey": "835c6645aedb059e451b468fcdf4bcb776b9e6e5f4f1186b31182321698cc5d5",
+    "currency": [
+        "MXN",
+        "Mexican peso"
+    ]
+}
