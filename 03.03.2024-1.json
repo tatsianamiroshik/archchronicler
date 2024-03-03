@@ -1,0 +1,26 @@
+{
+    "name": "Michael Lee",
+    "age": 98,
+    "address": {
+        "street": "Rachel Tunnel",
+        "city": "Tracybury",
+        "state": "Illinois",
+        "zip": "79227"
+    },
+    "contact": {
+        "phone": "001-297-660-7138",
+        "servicePhone": "800837211"
+    },
+    "birthday": "1926-14-04",
+    "ip": "19.93.168.134",
+    "foo": "bar",
+    "profile": {
+        "about": "Song certain whatever. School place watch work each certainly join order. Street arm tax level.",
+        "bio": "Statement really indeed beautiful center animal perform common. Say region cup first phone culture trial history. Serve maintain score market career near late.\nInterview how group education couple."
+    },
+    "apiKey": "62f27556cc211cd1883b427b646797aa98d50adbaa93b624734689ccf55f3341",
+    "currency": [
+        "PHP",
+        "Philippine peso"
+    ]
+}
