@@ -1,0 +1,26 @@
+{
+    "name": "Casey Adkins",
+    "age": 51,
+    "address": {
+        "street": "Andrews Ways",
+        "city": "New Caleb",
+        "state": "Texas",
+        "zip": "85912"
+    },
+    "contact": {
+        "phone": "+1-955-371-6001",
+        "servicePhone": "800912752"
+    },
+    "birthday": "1973-02-07",
+    "ip": "162.253.187.39",
+    "foo": "bar",
+    "profile": {
+        "about": "Ability race current sort manage interview. Size act young development. Organization radio write bank against.\nBest well production. Save we rate heavy.\nProcess look worry possible the base leave.",
+        "bio": "Firm interest provide available fast indeed firm grow. Power hospital far ten once.\nEmployee become keep them cause process. Across indeed rate exist size."
+    },
+    "apiKey": "10687ce8ffe5b2a6f580a633ff97e644e30ad8cdc69ff5a371cfd2b27d02a4b7",
+    "currency": [
+        "HKD",
+        "Hong Kong dollar"
+    ]
+}
