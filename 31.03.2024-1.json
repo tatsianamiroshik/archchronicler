@@ -1,0 +1,26 @@
+{
+    "name": "Tommy Gillespie",
+    "age": 47,
+    "address": {
+        "street": "Lori Groves",
+        "city": "Howardport",
+        "state": "Indiana",
+        "zip": "48987"
+    },
+    "contact": {
+        "phone": "5409275255",
+        "servicePhone": "800113627"
+    },
+    "birthday": "1977-23-08",
+    "ip": "167.15.70.109",
+    "foo": "bar",
+    "profile": {
+        "about": "Issue ask simple agreement plant. Ok her look. People ten marriage series interest.",
+        "bio": "Matter matter recognize budget week check job. Left since position. Stay less think business according company wide. I reality decide."
+    },
+    "apiKey": "d480e4e0f919dfb74a722f2e01e63ef047ab58f4607f953137176c53a3cb13aa",
+    "currency": [
+        "ISK",
+        "Icelandic króna"
+    ]
+}
