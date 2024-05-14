@@ -1,0 +1,26 @@
+{
+    "name": "Renee Clark",
+    "age": 21,
+    "address": {
+        "street": "Destiny Spur",
+        "city": "Dawntown",
+        "state": "Alabama",
+        "zip": "63297"
+    },
+    "contact": {
+        "phone": "277-356-3710x78453",
+        "servicePhone": "800593152"
+    },
+    "birthday": "2003-18-01",
+    "ip": "104.108.222.199",
+    "foo": "bar",
+    "profile": {
+        "about": "Leave cold sell arrive cause. Interest school all industry site.\nMay can behavior reveal around team group. Another special base little eight without then. Four oil yet certain action take late.",
+        "bio": "The court firm article. Think nearly order walk agreement admit. Outside realize newspaper.\nSpring mouth themselves decade. Many positive quite east send. Color network mention put serious manage."
+    },
+    "apiKey": "9420683e09776aaa474ad1a95a1e7ff92cf33b45aecd432849110acdd3dfe313",
+    "currency": [
+        "SVC",
+        "Salvadoran colón"
+    ]
+}
