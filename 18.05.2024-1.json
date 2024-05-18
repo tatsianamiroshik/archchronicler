@@ -1,0 +1,26 @@
+{
+    "name": "David Ingram",
+    "age": 32,
+    "address": {
+        "street": "Jenna Ports",
+        "city": "Brittanymouth",
+        "state": "New York",
+        "zip": "40988"
+    },
+    "contact": {
+        "phone": "822.406.8436x400",
+        "servicePhone": "800368250"
+    },
+    "birthday": "1992-19-05",
+    "ip": "133.40.232.5",
+    "foo": "bar",
+    "profile": {
+        "about": "North everybody yourself. Professor well number question take magazine fish need.\nSouth theory executive although draw kitchen toward. Best firm finally.",
+        "bio": "Police Republican old include very tend life business. Heart sit through only floor wrong tax at.\nPlace alone television party mother environment. Laugh store for imagine doctor."
+    },
+    "apiKey": "ad6e9c7246140084e45917924ff10d7e9a9ac7ed1d3aa8e93d9d8d52485c4a7e",
+    "currency": [
+        "BDT",
+        "Bangladeshi taka"
+    ]
+}
