@@ -1,0 +1,26 @@
+{
+    "name": "Kathy Perez",
+    "age": 71,
+    "address": {
+        "street": "Cunningham Mission",
+        "city": "Kristenstad",
+        "state": "Vermont",
+        "zip": "20486"
+    },
+    "contact": {
+        "phone": "+1-614-743-1006x90356",
+        "servicePhone": "800004205"
+    },
+    "birthday": "1953-15-09",
+    "ip": "23.77.63.225",
+    "foo": "bar",
+    "profile": {
+        "about": "Discover later data happy memory enough power. Successful continue system material put know. Great language reveal remain audience room.",
+        "bio": "Character manager interesting race bank. Economy less month most represent professional general."
+    },
+    "apiKey": "45f8e1a6381635a98796559f5606b8f3638befe0579a8dd14e13ddd7009061dd",
+    "currency": [
+        "TJS",
+        "Tajikistani somoni"
+    ]
+}
