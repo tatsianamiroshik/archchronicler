@@ -1,0 +1,26 @@
+{
+    "name": "Tiffany Griffin",
+    "age": 96,
+    "address": {
+        "street": "Gwendolyn Plaza",
+        "city": "Port Raymondmouth",
+        "state": "Georgia",
+        "zip": "68556"
+    },
+    "contact": {
+        "phone": "689-545-8562x9575",
+        "servicePhone": "800011687"
+    },
+    "birthday": "1928-28-11",
+    "ip": "33.208.136.97",
+    "foo": "bar",
+    "profile": {
+        "about": "School wife participant American although onto city time. Anything wall once hear without consider.",
+        "bio": "Interview shoulder whom kid life large. Prove thus himself actually. Care capital him pay whatever including. Party service state technology focus interesting policy."
+    },
+    "apiKey": "1b846033e4246678109164fbf2445513a74a9136ddd35aebab4571b8026a88da",
+    "currency": [
+        "BSD",
+        "Bahamian dollar"
+    ]
+}
