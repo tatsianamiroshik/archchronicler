@@ -1,0 +1,26 @@
+{
+    "name": "Veronica Cobb",
+    "age": 62,
+    "address": {
+        "street": "Lauren Viaduct",
+        "city": "Jordanview",
+        "state": "Maine",
+        "zip": "11459"
+    },
+    "contact": {
+        "phone": "458-288-4935",
+        "servicePhone": "800475485"
+    },
+    "birthday": "1962-10-12",
+    "ip": "154.27.99.179",
+    "foo": "bar",
+    "profile": {
+        "about": "Himself much strong. Throw south discover argue when. Piece from research indicate quickly shoulder. Radio quality it model responsibility.\nUnder data past accept wait here.",
+        "bio": "Reveal down late determine attention. Economic feeling know thousand reduce simply. Only now no medical. Become any within sure operation run attention."
+    },
+    "apiKey": "50caae1c384fc5dba4562c46b7e6a21807fa2ab5dd1ea922836e7abf01e1f8dd",
+    "currency": [
+        "YER",
+        "Yemeni rial"
+    ]
+}
