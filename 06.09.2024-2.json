@@ -1,0 +1,26 @@
+{
+    "name": "Kathleen Robinson",
+    "age": 46,
+    "address": {
+        "street": "Tom Station",
+        "city": "Justinfurt",
+        "state": "Missouri",
+        "zip": "48575"
+    },
+    "contact": {
+        "phone": "941-433-0109",
+        "servicePhone": "800238769"
+    },
+    "birthday": "1978-12-07",
+    "ip": "35.216.117.143",
+    "foo": "bar",
+    "profile": {
+        "about": "None try dog care send rock. Entire station quality improve leader citizen no message. Radio huge want test so turn.",
+        "bio": "Stage nor country when teach.\nTreat better manager those. Not family often health already. Never southern better of light."
+    },
+    "apiKey": "4dd8275b58f88054b7032a662eab292283e57c0d5c78de01a95a2cb800dba203",
+    "currency": [
+        "CUC",
+        "Cuban convertible peso"
+    ]
+}
