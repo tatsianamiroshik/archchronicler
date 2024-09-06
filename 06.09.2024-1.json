@@ -1,0 +1,26 @@
+{
+    "name": "Ronald Simmons",
+    "age": 57,
+    "address": {
+        "street": "David Ports",
+        "city": "Higginsburgh",
+        "state": "Montana",
+        "zip": "61618"
+    },
+    "contact": {
+        "phone": "231.624.8892",
+        "servicePhone": "800164224"
+    },
+    "birthday": "1967-11-03",
+    "ip": "82.10.253.19",
+    "foo": "bar",
+    "profile": {
+        "about": "Or course just particular. Put important tree.\nExactly collection generation market. Policy win yard such. Tell television still including human year glass memory.",
+        "bio": "Field true recognize.\nDemocrat sign there method song continue.\nBook finish school push task almost. Institution mention relate window final enter."
+    },
+    "apiKey": "bf42124c9b3f22dc1d2ac12153b137ec7e8b5433138107b6fc0146ae815c0e53",
+    "currency": [
+        "ILS",
+        "Israeli new shekel"
+    ]
+}
