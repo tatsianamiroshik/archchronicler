@@ -1,0 +1,26 @@
+{
+    "name": "Jared Gonzalez",
+    "age": 91,
+    "address": {
+        "street": "Lowe Summit",
+        "city": "South Jacobport",
+        "state": "Wisconsin",
+        "zip": "58686"
+    },
+    "contact": {
+        "phone": "385-474-1330",
+        "servicePhone": "800786136"
+    },
+    "birthday": "1933-18-08",
+    "ip": "212.234.105.46",
+    "foo": "bar",
+    "profile": {
+        "about": "Role approach grow kitchen.\nThroughout various impact find glass trip these. Part system fine.",
+        "bio": "Use born movement leader reveal per. Shoulder want concern me impact hold discussion. Center difference leg office add seek. Pass magazine any put section hospital control."
+    },
+    "apiKey": "11ae9af9064840e2f8f339d59a36b5d0d8c2bb1204705c516fd29fca179724a6",
+    "currency": [
+        "GBP",
+        "Pound sterling"
+    ]
+}
