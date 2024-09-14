@@ -1,0 +1,26 @@
+{
+    "name": "Jason Nguyen",
+    "age": 58,
+    "address": {
+        "street": "Erik Road",
+        "city": "Lunaview",
+        "state": "Tennessee",
+        "zip": "89201"
+    },
+    "contact": {
+        "phone": "600.604.5470x2853",
+        "servicePhone": "800854739"
+    },
+    "birthday": "1966-23-04",
+    "ip": "80.16.250.150",
+    "foo": "bar",
+    "profile": {
+        "about": "Itself decide design language free seven full clear. Century specific word smile statement.",
+        "bio": "Here member six according building participant. Several order best artist candidate them law."
+    },
+    "apiKey": "6557dfb4c62a6f4a48bb8f9db717932d0521f23ee3ed91960c623643c291b755",
+    "currency": [
+        "AZN",
+        "Azerbaijani manat"
+    ]
+}
