@@ -1,0 +1,26 @@
+{
+    "name": "William Smith",
+    "age": 7,
+    "address": {
+        "street": "Jill Drive",
+        "city": "Jonathanberg",
+        "state": "Oregon",
+        "zip": "61033"
+    },
+    "contact": {
+        "phone": "624.888.3864x873",
+        "servicePhone": "800816205"
+    },
+    "birthday": "2017-27-07",
+    "ip": "105.62.214.156",
+    "foo": "bar",
+    "profile": {
+        "about": "Indeed beyond professional. Join hit lot range according red contain yet. Situation whether store air already.\nThough exactly during that daughter particularly he. Anything couple admit business.",
+        "bio": "Agent what small change cup laugh. Sense join during shake. Executive cut bank fact top ability.\nUp cup score light senior. Result example pressure pressure throughout. Occur others part."
+    },
+    "apiKey": "e640558cc2d85ac160b288a71c11f0df118b42d0475bbaa75801d34c5f4dbbfc",
+    "currency": [
+        "GGP",
+        "Guernsey pound"
+    ]
+}
