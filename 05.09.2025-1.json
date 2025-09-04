@@ -1,0 +1,25 @@
+{
+    "name": "Katherine Williams",
+    "age": 113,
+    "address": {
+        "street": "Eduardo Tunnel",
+        "city": "Hernandeztown",
+        "state": "Georgia",
+        "zip": "45206"
+    },
+    "contact": {
+        "phone": "543.482.9788",
+        "servicePhone": "800197598"
+    },
+    "birthday": "1912-17-05",
+    "ip": "186.237.110.199",
+    "foo": "bar",
+    "profile": {
+        "about": "One add light up fast third place reach. Seat stock win protect. Full pick bring condition agree claim.",
+        "bio": "Floor major week former marriage wall rock. Fact huge doctor six standard where gas office. Floor movie how sell finish opportunity."
+    },
+    "currency": [
+        "AWG",
+        "Aruban florin"
+    ]
+}
