@@ -1,0 +1,25 @@
+{
+    "name": "Richard Allen",
+    "age": 113,
+    "address": {
+        "street": "Ashley Ford",
+        "city": "Batesstad",
+        "state": "Montana",
+        "zip": "33348"
+    },
+    "contact": {
+        "phone": "(541)577-3756",
+        "servicePhone": "800579306"
+    },
+    "birthday": "1912-18-07",
+    "ip": "219.198.46.250",
+    "foo": "bar",
+    "profile": {
+        "about": "Actually budget population raise up what respond.\nFamily land score. Hair manage prove west expect not.\nSomeone approach region sometimes treatment.",
+        "bio": "Pretty step know authority item character product. Inside production about off man eat. Model why perform where yet.\nSpring that firm old brother voice. Spring land identify by."
+    },
+    "currency": [
+        "BBD",
+        "Barbadian dollar"
+    ]
+}
