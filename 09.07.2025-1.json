@@ -1,0 +1,25 @@
+{
+    "name": "Joshua Tucker",
+    "age": 66,
+    "address": {
+        "street": "Smith Valley",
+        "city": "Kristinfort",
+        "state": "North Dakota",
+        "zip": "94321"
+    },
+    "contact": {
+        "phone": "4198190889",
+        "servicePhone": "800164843"
+    },
+    "birthday": "1959-01-08",
+    "ip": "176.152.67.50",
+    "foo": "bar",
+    "profile": {
+        "about": "Remain large major mouth.\nVoice let play meet force. Moment moment method high. Exactly player audience hard question whose simple.",
+        "bio": "Central leave police role strategy sit. Create oil standard election.\nHard enjoy sister ever deep place. Character poor city data American head."
+    },
+    "currency": [
+        "NIO",
+        "Nicaraguan córdoba"
+    ]
+}
